@@ -29,7 +29,7 @@
 | 💼 **Trabalho** | Auxiliar Administrativo |
 | 🏟️ **Time** | Grêmio Football Porto Alegrense |
 | ✅ **O que eu quero** | Que o Grêmio vença |
-| 🚫 **O que eu não quero** | Que o Grêmio não vença |
+| 🚫 **O que eu não quero** | Que o Grêmio perca |
 
 > Sim, são duas linhas dizendo a mesma coisa. Foi de propósito. Eu **realmente** quero que o Grêmio vença.
 
