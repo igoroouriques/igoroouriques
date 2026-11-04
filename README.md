@@ -126,7 +126,7 @@ Ao ler este README, você concorda que:
 ## 📫 Bora trocar ideia?
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/igoroouriques">
     <img src="https://img.shields.io/badge/GitHub-Me%20segue%20que%20eu%20sigo%20de%20volta-0D80BF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
