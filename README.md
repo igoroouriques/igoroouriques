@@ -110,8 +110,8 @@ Site de e-commerce estático que apresenta uma **vitrine de TVs e acessórios**,
 
 Coleção dos **exercícios e trabalhos de lógica de programação** da disciplina de APC I, desenvolvidos em **VisuAlg**, sob orientação da professora **Sabrina Boing Moreira** (Univille).
 
-![VisuAlg](https://img.shields.io/badge/VisuAlg-2C5364?style=flat-square&logoColor=white)
-![Lógica](https://img.shields.io/badge/Lógica_de_programação-0F2027?style=flat-square&logoColor=38BDF8)
+![VisuAlg](https://img.shields.io/badge/VisuAlg-APC_I-2C5364?style=flat-square)
+![Lógica](https://img.shields.io/badge/L%C3%B3gica-de_programa%C3%A7%C3%A3o-38BDF8?style=flat-square&labelColor=0F2027)
 
 **O que pratiquei:** estruturas condicionais · laços de repetição · vetores e matrizes · raciocínio algorítmico
 
@@ -130,8 +130,8 @@ Coleção dos **exercícios e trabalhos de lógica de programação** da discipl
 
 <div align="center">
 
-[![Estatísticas](https://github-readme-stats.vercel.app/api?username=igoroouriques&show_icons=true&hide_border=true&bg_color=0F2027&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF)](https://github.com/igoroouriques)
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=igoroouriques&layout=compact&hide_border=true&bg_color=0F2027&title_color=38BDF8&text_color=FFFFFF)](https://github.com/igoroouriques)
+[![Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=igoroouriques&show_icons=true&hide_border=true&bg_color=0F2027&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF)](https://github.com/igoroouriques)
+[![Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igoroouriques&layout=compact&hide_border=true&bg_color=0F2027&title_color=38BDF8&text_color=FFFFFF)](https://github.com/igoroouriques)
 
 [![Sequência](https://streak-stats.demolab.com?user=igoroouriques&hide_border=true&background=0F2027&ring=38BDF8&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8)](https://github.com/igoroouriques)
 
