@@ -130,18 +130,10 @@ Coleção dos **exercícios e trabalhos de lógica de programação** da discipl
 
 <div align="center">
 
-[![Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=igoroouriques&show_icons=true&hide_border=true&bg_color=0F2027&title_color=38BDF8&icon_color=38BDF8&text_color=FFFFFF)](https://github.com/igoroouriques)
-[![Linguagens](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=igoroouriques&layout=compact&hide_border=true&bg_color=0F2027&title_color=38BDF8&text_color=FFFFFF)](https://github.com/igoroouriques)
+![Seguidores](https://img.shields.io/github/followers/igoroouriques?style=for-the-badge&logo=github&labelColor=0F2027&color=38BDF8)
+![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-5-38BDF8?style=for-the-badge&labelColor=0F2027)
 
 [![Sequência](https://streak-stats.demolab.com?user=igoroouriques&hide_border=true&background=0F2027&ring=38BDF8&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8)](https://github.com/igoroouriques)
-
-<details>
-<summary><b>📈 Ver gráfico de atividade</b></summary>
-<br>
-
-[![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=igoroouriques&bg_color=0F2027&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true)](https://github.com/igoroouriques)
-
-</details>
 
 </div>
 
