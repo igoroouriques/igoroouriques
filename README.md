@@ -130,9 +130,6 @@ Coleção dos **exercícios e trabalhos de lógica de programação** da discipl
 
 <div align="center">
 
-![Seguidores](https://img.shields.io/github/followers/igoroouriques?style=for-the-badge&logo=github&labelColor=0F2027&color=38BDF8)
-![Repositórios](https://img.shields.io/badge/Reposit%C3%B3rios-5-38BDF8?style=for-the-badge&labelColor=0F2027)
-
 [![Sequência](https://streak-stats.demolab.com?user=igoroouriques&hide_border=true&background=0F2027&ring=38BDF8&fire=38BDF8&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8)](https://github.com/igoroouriques)
 
 </div>
