@@ -125,6 +125,34 @@ Coleção dos **exercícios e trabalhos de lógica de programação** da discipl
 
 ---
 
+<h3 align="center">🎮 Mini Game: Você acerta a saída?</h3>
+
+<details>
+<summary><b>Desafio 1 (JavaScript):</b> qual o resultado de <code>console.log(0.1 + 0.2 === 0.3)</code>?</summary>
+<br>
+
+**Resposta:** `false` 😅 
+Números decimais em ponto flutuante têm imprecisão: `0.1 + 0.2` dá `0.30000000000000004`.
+
+</details>
+
+<details>
+<summary><b>Desafio 2 (JavaScript):</b> qual o resultado de <code>typeof null</code>?</summary>
+<br>
+
+**Resposta:** `"object"` 🤯 
+É um bug histórico da linguagem que se mantém por compatibilidade.
+
+</details>
+
+<details>
+<summary><b>Desafio 3 (Lógica):</b> qual o resultado de <code>"5" + 3</code> e de <code>"5" - 3</code> em JavaScript?</summary>
+<br>
+
+**Resposta:** `"53"` e `2`. O `+` concatena strings, já o `-` converte para número.
+
+</details>
+
 <a name="stats"></a>
 ## 📊 Estatísticas do GitHub
 
@@ -144,6 +172,15 @@ Coleção dos **exercícios e trabalhos de lógica de programação** da discipl
 |:---:|:---:|:---:|:---:|
 
 ---
+<h3 align="center">🐍 Minha cobrinha devorando as contribuições</h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igoroouriques/igoroouriques/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igoroouriques/igoroouriques/output/github-snake.svg" />
+    <img alt="Snake comendo as contribuições do GitHub" src="https://raw.githubusercontent.com/igoroouriques/igoroouriques/output/github-snake.svg" />
+  </picture>
+</p>
 
 <a name="contato"></a>
 ## 📫 Vamos conversar?
